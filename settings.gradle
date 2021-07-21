@@ -1,0 +1,2 @@
+rootProject.name = "RaffleApp"
+include ':app'
